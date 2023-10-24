@@ -4,6 +4,9 @@ def sample(a):
 def sample2(a):
     return a + a
 
+def s():
+    print("Hello")
+
 if __name__ == '__main__':
     print(sample(2))
     print("Hello")
